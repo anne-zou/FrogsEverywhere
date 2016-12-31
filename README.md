@@ -1,2 +1,2 @@
 # PepeEverywhere
-This is a desktop application where your cursor is trailed by Pepes. 
+A simple desktop game application in which your cursor is trailed by Pepes. 
