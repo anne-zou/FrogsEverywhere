@@ -1,2 +1,4 @@
-# PepeEverywhere
-A simple desktop game application in which your cursor is trailed by Pepes. 
+# FrogEverywhere
+A simple desktop game application in which your cursor is trailed by frogs.
+
+Disclaimer: This project was created before Pepe the Frog became an internet hate-symbol. No political opinions are meant to be expressed by the use of this image in the application.
